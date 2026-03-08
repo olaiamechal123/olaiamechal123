@@ -18,44 +18,14 @@
 - 🌍 Basée à **Berrechid, Maroc**
 - 🔭 Passionnée par le **Machine Learning**, le **Deep Learning** et l'**analyse de données**
 
-
-
 # 🛠️ Compétences Techniques
 
-### Langages & Outils
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
-### Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Langages+%7C+Python+·+SQL+·+R+·+C+·+Git;ML+%26+DL+%7C+TensorFlow+·+PyTorch+·+Scikit-learn;Computer+Vision+%7C+OpenCV+·+CNN+·+YOLOv8+·+GANs;Visualisation+%7C+Power+BI+·+Tableau+·+Plotly;Data+Engineering+%7C+Spark+·+Kafka+·+Airflow+·+Snowflake;Déploiement+%7C+Docker+·+Kubernetes+·+Streamlit)](https://git.io/typing-svg)
 
-### Visualisation & BI
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-### 📐 Modélisation Statistique
-![Régression](https://img.shields.io/badge/Régression_Linéaire_/_Logistique-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![Séries](https://img.shields.io/badge/Séries_Chronologiques-EC4899?style=for-the-badge&logo=r&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests_Statistiques-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/Analyse_Exploratoire_(EDA)-10B981?style=for-the-badge&logo=pandas&logoColor=white)
+</div>
 
-
-### Data Engineering 
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 
 # 📫 Me Contacter
