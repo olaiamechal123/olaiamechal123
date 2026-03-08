@@ -42,6 +42,12 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### 📐 Modélisation Statistique
+![Régression](https://img.shields.io/badge/Régression_Linéaire_/_Logistique-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![Séries](https://img.shields.io/badge/Séries_Chronologiques-EC4899?style=for-the-badge&logo=r&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests_Statistiques-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/Analyse_Exploratoire_(EDA)-10B981?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### Data Engineering 
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
