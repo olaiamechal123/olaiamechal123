@@ -58,11 +58,6 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 
-## 🏆 Certifications
-
-- ✅ **Associate Data Engineer in SQL** — DataCamp
-- ✅ **Data Analyst in Databricks** — DataCamp
-- ✅ **Containerization & Virtualization with Docker & Kubernetes** — DataCamp
 # 📫 Me Contacter
 
 <p align="center">
